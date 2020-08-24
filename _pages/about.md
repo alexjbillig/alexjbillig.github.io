@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 excerpt: "homepage"
 author_profile: true
 redirect_from:
@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm Alex, a postdoctoral research associate at the [UCL Ear Institute](https://www.ucl.ac.uk/ear/).
+I'm Alex Billig, a postdoctoral research associate at the [UCL Ear Institute](https://www.ucl.ac.uk/ear/). I use modelling, psychophysics, electrophysiology, and magnetic resonance imaging to study how our brains help us make sense of auditory mixtures, understand speech, and appreciate music.
+
+
+Background
+======
+
 
 My research
 ======
@@ -24,6 +29,3 @@ Sound and the hippocampus
 
 Other projects
 ------
-
-Background
-======
