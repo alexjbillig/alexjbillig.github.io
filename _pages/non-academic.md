@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /non-academic/
 title: "Non-academic"
 excerpt: "Non-academic"
