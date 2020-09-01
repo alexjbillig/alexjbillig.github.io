@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Mathematics, University of Oxford, 2001
+* M.Sc. in Music, Mind & Brain, Goldsmiths College, 2011
+* Ph.D in Biological Sciences, University of Cambridge, 2016
 
 Work experience
 ======
