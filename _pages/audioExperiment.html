@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My auditory experiment</title>
+    <script src="jsPsych-master/jspsych.js"></script>
+    <script src="jsPsych-master/plugins/jspsych-html-keyboard-response.js"></script>
+    <script src="jsPsych-master/plugins/jspsych-image-keyboard-response.js"></script>
+    <script src="jsPsych-master/plugins/jspsych-audio-keyboard-response.js"></script>
+    <link href="jsPsych-master/css/jspsych.css" rel="stylesheet" type="text/css"></link>
+</head>
+<body></body>
+
+  <script>
+
+  /* create timeline */
+  var timeline = [];
+
+  /* define welcome message trial */
+  var welcome = {
+    type: "html-keyboard-response",
+    stimulus: "Welcome to the experiment. Press any key to begin."
+  };
+  timeline.push(welcome);
+
+  /* preload soundfile */
+  var sound_trial = {
+      type: 'audio-keyboard-response',
+      stimulus: 'audio/1_01norm.wav'
+  }
+  timeline.push(sound_trial)
+
+  /* start the experiment */
+  jsPsych.init({
+    timeline: timeline,
+  });
+
+  </script>
+
+</html>
